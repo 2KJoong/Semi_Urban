@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.allinone.apart.prototype.PrototypeApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-26T03:18:59" hostname="BOOK-C7577SMK2H" time="3.883">
+  <properties/>
+  <testcase name="insert()" classname="com.allinone.apart.prototype.PrototypeApplicationTests" time="3.883"/>
+  <system-out><![CDATA[12:18:56.408 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.allinone.apart.prototype.PrototypeApplicationTests]: PrototypeApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:18:56.534 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.allinone.apart.prototype.PrototypeApplication for test class com.allinone.apart.prototype.PrototypeApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.3)
+
+2024-08-26T12:18:56.928+09:00  INFO 11128 --- [starter] [    Test worker] c.a.a.p.PrototypeApplicationTests        : Starting PrototypeApplicationTests using Java 17.0.11 with PID 11128 (started by allen in D:\JSG\Project\semi_01\BackEnd)
+2024-08-26T12:18:56.928+09:00  INFO 11128 --- [starter] [    Test worker] c.a.a.p.PrototypeApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2024-08-26T12:18:59.490+09:00  INFO 11128 --- [starter] [    Test worker] c.a.a.p.PrototypeApplicationTests        : Started PrototypeApplicationTests in 2.751 seconds (process running for 3.897)
+2024-08-26T12:19:02.975+09:00  INFO 11128 --- [starter] [    Test worker] com.zaxxer.hikari.HikariDataSource       : MyHikariCP - Starting...
+2024-08-26T12:19:03.349+09:00  INFO 11128 --- [starter] [    Test worker] com.zaxxer.hikari.pool.HikariPool        : MyHikariCP - Added connection com.mysql.cj.jdbc.ConnectionImpl@4aba7617
+2024-08-26T12:19:03.365+09:00  INFO 11128 --- [starter] [    Test worker] com.zaxxer.hikari.HikariDataSource       : MyHikariCP - Start completed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
